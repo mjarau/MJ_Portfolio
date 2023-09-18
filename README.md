@@ -3,7 +3,7 @@ Example of data science portfolio
 
 # [Project 1: Customer Churn Prediction: Project Overview](https://github.com/mjarau/Churn-Prediction)
 * In this project, several Machine Learning algorithms were used and evaluated in order to determine the most suitable ML model for customer churn prediction.
-* * The best trained model tested in this project is Logistic Regression Classifier Model with 83% accuracy compared to the other tested ML algorithms. Testing with other ML classification models may generate better predictions. Tuning some parameters on the models may potentially result in better predictions
+* The best trained model tested in this project is Logistic Regression Classifier Model with 83% accuracy compared to the other tested ML algorithms. Testing with other ML classification models may generate better predictions. Tuning some parameters on the models may potentially result in better predictions
 * The dataset used is from telecommunication company, Telco where customer attributes such as customer account and demographic information, services that each customer signed up for, and customer who churned in the previous month. The data can be obtained from Kaggle website: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 # [Project 2: Credit Card Fraud Detection: Project Overview](https://github.com/mjarau/Credit-Card-Fraud-Detection)
