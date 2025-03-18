@@ -19,7 +19,7 @@ Example of data science portfolio
 * The data used in this prediction was obtained from Kaggle website: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who 
 It was obtained from the year 2000 to 2015 for all the countries. It consists of 22 columns and 2938 rows in which 20 predicting variables included categories i.e., Immunization-related factors, Mortality factors, Economic factors, and Social factors.
 
-# [Project 5:Sentiment Analysis: Project Overview](https://github.com/mjarau/Sentiment-Analysis/tree/main)
+# [Project 5: Sentiment Analysis: Project Overview](https://github.com/mjarau/Sentiment-Analysis/tree/main)
 * For this project, four machine learning (ML) models (SVM, Naive Bayes, Logistic Regression and Decision Tree) were used to predict sentiment analysis of movie reviews. The best-suited ML model was observed to be SVM classifier model with 84% accuracy compared to the other models. 
 * The data used in this prediction was obtained from Kaggle website: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews. 
 The data is an IMDB dataset of 50k movie reviews containing two columns (review and sentiment) that will assist us in identifying the type of a review whether it is positive or negative.
